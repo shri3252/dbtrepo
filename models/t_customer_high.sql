@@ -1,0 +1,1 @@
+select * from marketing_db.marketing_schema.t_orders where o_orderpriority='2-HIGH' and date_part(month,o_orderdate)='1' and date_part(year,o_orderdate)='1995'
