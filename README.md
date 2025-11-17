@@ -1,4 +1,5 @@
 Welcome to your new dbt project! New world
+Welcome to your new dbt project! Hello
 
 ### Using the starter project
 
